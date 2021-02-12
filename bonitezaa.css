@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #FCF1ED;
+}
+header{
+    background-color: #F8CECC;
+    height: 155pt;
+    width: 100%;
+    display: block;
+    position: fixed;
+    padding: 20px 0;
+    top: 0; left: 0;
+}
+footer{
+    background-color: #F8CECC;
+    height: 300pt;
+    display: block;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    padding: 20px 0;
+}
